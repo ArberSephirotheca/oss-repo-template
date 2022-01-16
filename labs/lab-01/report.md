@@ -23,7 +23,7 @@ The copyright law has failed to applied to new forms of creativity. Instead, it 
 ## 3. Linux
 ![image](image/tree.png "man tree")
 
-## Regex
+## 4. Regex
 ### Practice Problem
 ![image](image/exec1.png "practice problem1")
 ![image](image/exec2.png "practice problem2")
@@ -36,8 +36,8 @@ The copyright law has failed to applied to new forms of creativity. Instead, it 
 ![image](image/puzzle.png "puzzle")
 ![image](image/stats.png "stats")
 
-## 4. Blocky
+## 5. Blocky
 ![image](image/blocky.png "blocky")
 
-## 5. Reflection
-I am  interested in database so I pick a key/value database open source project **[leveldb](https://github.com/google/leveldb)** to evaluate. First I read the  Google search the github page of project **dagoba**. When I entered in the github page of the project, I first read the **README.MD** file and then checked Github Wiki as they usually contain the introduction and information about project. After understanding about the basic architecture of project, I started looking at related paper "Bigtable: A Distributed Storage System for Structured Data" and then the source code of the project to try to understand how it is implemented.
+## 6. Reflection
+I am  interested in database so I pick a key/value database open source project **[leveldb](https://github.com/google/leveldb)** to evaluate. When I entered in the github page of the project, I first read the **README.MD** file and then checked Github Wiki as they usually contain the introduction and information about project. After understanding about the basic architecture of project, I started looking at related paper "Bigtable: A Distributed Storage System for Structured Data" and then the source code of the project to try to understand how it is implemented.
