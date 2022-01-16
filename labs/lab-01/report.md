@@ -16,9 +16,9 @@ When asking a question, choose a right forum that match the topic and difficulty
 - Don't delete your question once it is solved. Other people may have same question as yours.
 - Read the rules and guidelines of forum before asking.
 ### Free Culture - Chapter 3
- The copyright was originally intended to protect intellectual property of artist, but it is now being used by large companies to protect their interest. Jess Jordan is a really good example: 
- Jesse Jordan built a intranet search engine based on Microsoft's network file system. Although he didn't make any money from the experiment and he was doing it for good intention, he was still sued by RIAA due to violating copyright law.
-The copyright law has failed to applied to new forms of creativity. Instead, it becomes a barrier for those talented, creative people who want to make innovation. The copyright law should be reformed to protect those group of people who needed to be protected.
+ The copyright was originally intended to protect intellectual property of artist, but it is now being used by large companies to server their interest. Jess Jordan is a really good example: 
+ Jesse Jordan built a intranet search engine based on Microsoft's network file system. Although he didn't make any money from the experiment and he was doing it for good intention, he was still sued by RIAA due to violating copyright law. The copyright reform on intellectual work initiated in the late 1950s and it lacks serious thought about how it would apply to computer program and networks.
+The copyright law has failed to applied to new forms of creativity. Instead, it becomes a barrier for those talented, creative people who want to make innovation. So, a simple, comprehensible and coherent copyright law should be developed, and it should articulate the purpose it wants to achieve and gives some guidelines about how competing interest should be balanced.
 
 ## 3. Linux
 ![image](image/tree.png "man tree")
@@ -40,4 +40,4 @@ The copyright law has failed to applied to new forms of creativity. Instead, it 
 ![image](image/blocky.png "blocky")
 
 ## 5. Reflection
-I am  interested in database so I pick a key/value database open source project **[leveldb](https://github.com/google/leveldb)** to evaluate. First I read the  Google search the github page of project **dagoba**. When I entered in the github page of the project, I first read the **README.MD** file and then checked Github Wiki as they usually contain the introduction and information about project. After understanding about the basic architecture of project, I started looking at related paper "Bigtable: A Distributed Storage System for Structured Data" and the source code of the project.
+I am  interested in database so I pick a key/value database open source project **[leveldb](https://github.com/google/leveldb)** to evaluate. First I read the  Google search the github page of project **dagoba**. When I entered in the github page of the project, I first read the **README.MD** file and then checked Github Wiki as they usually contain the introduction and information about project. After understanding about the basic architecture of project, I started looking at related paper "Bigtable: A Distributed Storage System for Structured Data" and then the source code of the project to try to understand how it is implemented.
